@@ -5,18 +5,6 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'autoMate>>',
-  icons: {
-    icon: [
-      { url: '/favicon.ico' },
-    ],
-    apple: [
-      
-    ],
-    shortcut: [
-      '/apple-touch-icon.png'
-    ]
-  },
-  manifest: '/site.webmanifest'
   }
 
 export default function RootLayout({ children }) {
