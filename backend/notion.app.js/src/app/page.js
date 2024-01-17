@@ -14,7 +14,7 @@ export default function Home() {
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
           src="/logo_deff.png"
           alt="autoMate>> Logo"
-          width={300}
+          width={370}
           height={37}
           priority
         />
