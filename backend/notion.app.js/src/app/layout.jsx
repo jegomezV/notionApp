@@ -4,7 +4,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'autoM>>',
+  title: 'autoMate>>',
   }
 
 export default function RootLayout({ children }) {
